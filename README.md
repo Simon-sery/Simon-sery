@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a Multimedia Design student based in Copenhagen, Denmark.
+
+I enjoy creating modern and user-friendly websites with a focus on
+frontend development, UI/UX and responsive design.
+
+I'm currently developing my skills in JavaScript and frontend development
+and looking for opportunities to gain professional experience.
+
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -15,15 +23,67 @@
 </p>
 <!--
 **Simon-sery/Simon-sery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Skills
 
-Here are some ideas to get you started:
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Design
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+
+### CMS & Tools
+- WordPress
+- Elementor
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Featured Projects
+
+### Portfolio Website
+My personal portfolio showcasing selected design and frontend projects.
+
+**Built with:** HTML, CSS
+
+[View project](DIT-LINK)
+[View code](DIT-LINK)
+
+---
+
+### F1 Rookie
+An interactive Formula 1 learning platform created for beginners.
+
+The project focuses on making Formula 1 rules, history and teams
+easy to understand through interactive and visual content.
+
+**Built with:** WordPress, Elementor, CSS
+
+[View website](DIT-LINK)
+
+---
+
+### JavaScript Projects
+A collection of JavaScript exercises and small projects where I practice
+DOM manipulation, arrays, functions, events and other JavaScript fundamentals.
+
+[View projects](DIT-LINK)
+
+## 🌱 Currently Learning
+
+- JavaScript
+- DOM manipulation
+- Responsive frontend development
+- Git & GitHub
+- UI/UX
+
+## 📫 Contact
+
+Portfolio: DIT-LINK  
+LinkedIn: DIT-LINK  
+Email: DIN-EMAIL
