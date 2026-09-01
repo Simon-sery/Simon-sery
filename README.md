@@ -35,18 +35,17 @@ Right now I'm improving my JavaScript skills, building frontend projects and lea
 
 ---
 
-## 🚀 Featured Projects
-
 ### 🏎️ F1 Rookie
 
 An interactive Formula 1 learning platform designed for people who are new to Formula 1.
 
 The goal was to make F1 rules, history, teams and other information easier to understand through visual and interactive content.
 
-**Built with:** WordPress • Elementor • CSS
+**Built with:** WordPress • Elementor • CSS • Figma
 
-🔗 [Visit F1 Rookie](DIT-LINK)
+👥 **Created together with:** [Oskar Krzewski](https://github.com/OsKi05-12)
 
+🔗 [Visit F1 Rookie](https://simonsery.com/f1rookie/)
 ---
 
 ### 🌐 Portfolio Website
